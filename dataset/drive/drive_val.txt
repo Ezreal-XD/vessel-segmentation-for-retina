@@ -1,0 +1,5 @@
+training/images/36_training.tif training/1st_manual/36_manual1.gif
+training/images/37_training.tif training/1st_manual/37_manual1.gif
+training/images/38_training.tif training/1st_manual/38_manual1.gif
+training/images/39_training.tif training/1st_manual/39_manual1.gif
+training/images/40_training.tif training/1st_manual/40_manual1.gif
